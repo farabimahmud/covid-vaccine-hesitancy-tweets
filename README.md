@@ -42,3 +42,7 @@ We have the following number of tweets for each day -
 
 
 For further information please contact with farabi at tamu dot edu 
+
+## DOI
+[![DOI](https://zenodo.org/badge/345474256.svg)](https://zenodo.org/badge/latestdoi/345474256)
+
