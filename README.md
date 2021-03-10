@@ -1,4 +1,5 @@
-# COVID-19 Vaccine Hesitancy Tweets
+# COVID-19 vaccination hesitancy, misinformation and conspiracy theories on social media: A content analysis of Twitter data
+
 
 This dataset contains tweets that contains the keyword "vaccine" or the hashtag "#vaccine". The timeline of scrapping these tweets were July 19 2020 to August 19, 2020 using [Twint](https://pypi.org/project/twint/) package. 
 
