@@ -3,7 +3,7 @@
 
 This dataset contains tweets that contains the keyword "vaccine" or the hashtag "#vaccine". The timeline of scrapping these tweets were July 19 2020 to August 19, 2020 using [Twint](https://pypi.org/project/twint/) package. 
 
-A simplified data analysis result is given in the ```Findings-March-2021.xlsx``` file 
+A simplified data analysis result is given in the ```Data.xlsx``` file 
 
 ## Dataset Description
 Each .csv file contains all the tweet ids of tweets and a row number.
